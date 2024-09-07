@@ -109,7 +109,7 @@ The diverse image datasets created by this project are crucial for improving the
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/IITB-LEAP-OCR) file for details.
 
 ## Acknowledgments
 
