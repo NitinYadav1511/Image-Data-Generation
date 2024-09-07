@@ -99,15 +99,13 @@ Each script allows for customization of various parameters such as font size, ro
 
 Generated images are saved in the `output` directory, organized by the type of generation method used.
 
-## Contributing
+## Contribution
 
-Contributions to improve the project are welcome. Please follow these steps:
+This repository is maintained by [Nitin Yadav](https://github.com/NitinYadav1511).
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+This repository contributes towards developing OCR models for Indic Languages, a project under IIT Bombay. To build a robust model, it should be trained on diverse datasets. Hence, this repository aims to generate/synthesize heterogeneous image data from text in Indic Scripts. 
+
+The diverse image datasets created by this project are crucial for improving the accuracy and reliability of OCR systems for Indic languages. By providing a tool to generate varied text images, we support the development of more inclusive and effective digital text recognition technologies for languages used by millions across the Indian subcontinent.
 
 ## License
 
@@ -117,3 +115,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Thanks to all contributors who have helped with this project.
 - Special thanks to the developers of Pillow and NumPy libraries.
+- Gratitude to IIT Bombay for spearheading the initiative on OCR models for Indic Languages.
