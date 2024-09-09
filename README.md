@@ -53,7 +53,7 @@ python imgByFont.py
 
 ### imgByRotation.py
 
-Generates images with rotated text.
+Generates images with rotated text at different angles.
 
 ```
 python imgByRotation.py
